@@ -1,0 +1,97 @@
+html { 
+    background-color: rgb(81, 146, 231);
+}
+
+#title {
+    text-align: left;
+    border-left: 6px solid rgb(11, 73, 155);
+    padding-left: 5px;
+}
+
+#icon {
+    float: right;
+    width: 40px;
+    height: auto;
+    border-style: solid;
+    padding: 5px;
+    border-radius: 50px;
+    border-color: rgb(11, 73, 155);
+    background-color: rgb(11, 73, 155);
+}
+
+#collectionList {
+    float: left;
+    position: absolute;
+    margin-left: 10;
+}
+
+.element {
+    padding: 10px 50px;
+    background-color: rgb(11, 73, 155);
+    color: white;
+    font-size: 15px;
+    border: 2px solid black;
+    width: 100px;
+    text-align: left;
+    border-radius: 50vh;
+}
+
+#collectionName {
+    float: left;
+}
+
+#submit {
+    float: left;
+}
+
+#collectionName {
+    border-radius: 50vh;
+
+}
+
+#submit {
+    border-radius: 50px;
+}
+
+#listingRow {
+    border-radius: 50px ;
+    border-style: solid;
+    float: right;
+    width: 70vw;
+    border-color: black;
+    background-color: rgb(97, 97, 97);
+}
+
+#nft {
+    width: 5vw;
+    height: auto;
+    border-style: solid;
+    border-radius: 50px;
+}
+
+#listings {
+    float: left;
+    margin-left: 10vw;
+}
+
+#stats {
+    float: left;
+    margin-top:33vh;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50px;    
+    background-color: rgb(11, 73, 155);
+    padding: 10px 10px;
+    position: absolute;
+}
+
+#page {
+    float: right;
+    position: absolute;
+    border-radius: 50px;
+    border-style: solid;
+    background-color: rgb(11, 73, 155);
+    border-color: black;
+    margin-left: 50vw;
+    margin-bottom: 7vh;
+}
